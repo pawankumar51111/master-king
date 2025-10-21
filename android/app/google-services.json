@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419450533501",
+    "project_id": "masterking-kd",
+    "storage_bucket": "masterking-kd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419450533501:android:fde3d98503e73f9e81a314",
+        "android_client_info": {
+          "package_name": "com.kdsolution.masterking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkyggZVfDBy2g2niSDV7dlMRYYEzTETg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
